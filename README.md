@@ -176,16 +176,6 @@ Make sure your `package.json` has these (adjust if different):
 
 > Do **not** upload `.next` or `node_modules` to Git—they are built during deployment.
 
----
-
-## 📸 Screenshots
-
-*Add screenshots or GIF demos (landing page, dashboard, resume builder, interview flow).*
-Example:
-
-```
-![Dashboard Screenshot](./public/banner.png)
-```
 
 ---
 
