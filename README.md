@@ -196,14 +196,4 @@ Full Stack Web Developer (MERN / Next.js)
 * LinkedIn: [sahilkhan75](https://www.linkedin.com/in/sahil-khan-74a08635b/)
 * Email: [sahilkhan75](sahilkhangoryan@gmail.com)
 
----
 
-
-
-## ✅ Maintenance Checklist
-
-* [ ] Add real environment variable keys in Vercel.
-* [ ] Confirm database connection works.
-* [ ] Test AI flows (resume, cover letter, interview).
-* [ ] Add screenshots.
-* [ ] Update live demo link.
